@@ -1,0 +1,6 @@
+{
+  "name": "BLINDSIDE",
+  "description": "See what your decision is hiding. Critical thinking and blind spot analysis for high-stakes decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
